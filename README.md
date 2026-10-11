@@ -1,1 +1,1 @@
-# -Metal-Playlist-Archive
+# Metal-Playlist-Archive
